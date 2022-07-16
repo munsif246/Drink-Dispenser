@@ -1,0 +1,20 @@
+C:\Users\New Mansco\source\repos\my example 1\my example 1\bin\Debug\my example 1.exe.config
+C:\Users\New Mansco\source\repos\my example 1\my example 1\bin\Debug\my example 1.exe
+C:\Users\New Mansco\source\repos\my example 1\my example 1\bin\Debug\my example 1.pdb
+C:\Users\New Mansco\source\repos\my example 1\my example 1\obj\Debug\my example 1.csproj.AssemblyReference.cache
+C:\Users\New Mansco\source\repos\my example 1\my example 1\obj\Debug\my_example_1.Form1.resources
+C:\Users\New Mansco\source\repos\my example 1\my example 1\obj\Debug\my_example_1.Properties.Resources.resources
+C:\Users\New Mansco\source\repos\my example 1\my example 1\obj\Debug\my example 1.csproj.GenerateResource.cache
+C:\Users\New Mansco\source\repos\my example 1\my example 1\obj\Debug\my example 1.csproj.CoreCompileInputs.cache
+C:\Users\New Mansco\source\repos\my example 1\my example 1\obj\Debug\my example 1.exe
+C:\Users\New Mansco\source\repos\my example 1\my example 1\obj\Debug\my example 1.pdb
+C:\Users\New Mansco\source\repos\project\my example 1\bin\Debug\my example 1.exe.config
+C:\Users\New Mansco\source\repos\project\my example 1\bin\Debug\my example 1.exe
+C:\Users\New Mansco\source\repos\project\my example 1\bin\Debug\my example 1.pdb
+C:\Users\New Mansco\source\repos\project\my example 1\obj\Debug\my example 1.csproj.AssemblyReference.cache
+C:\Users\New Mansco\source\repos\project\my example 1\obj\Debug\my_example_1.Form1.resources
+C:\Users\New Mansco\source\repos\project\my example 1\obj\Debug\my_example_1.Properties.Resources.resources
+C:\Users\New Mansco\source\repos\project\my example 1\obj\Debug\my example 1.csproj.GenerateResource.cache
+C:\Users\New Mansco\source\repos\project\my example 1\obj\Debug\my example 1.csproj.CoreCompileInputs.cache
+C:\Users\New Mansco\source\repos\project\my example 1\obj\Debug\my example 1.exe
+C:\Users\New Mansco\source\repos\project\my example 1\obj\Debug\my example 1.pdb
